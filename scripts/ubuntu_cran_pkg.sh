@@ -11,7 +11,7 @@ install2.r --error --skipinstalled -n -1 \
   languageserver  \
   latex2exp       \
   MASS            \
-  Matrix          \
-  mice            \
-  numDeriv
+  Matrix
+#  mice            \
+#  numDeriv
   
