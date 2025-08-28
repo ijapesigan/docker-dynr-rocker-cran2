@@ -8,10 +8,10 @@ install2.r --error --skipinstalled -n -1 \
   deSolve         \
   fda             \
   fds             \
-  languageserver  \
-  latex2exp       \
-  MASS            \
-  Matrix
+  languageserver
+#  latex2exp       \
+#  MASS            \
+#  Matrix
 #  mice            \
 #  numDeriv
   
