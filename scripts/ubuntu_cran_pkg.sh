@@ -5,10 +5,10 @@ set -e
 install2.r --error --skipinstalled -n -1 \
   devtools        \
   car             \
-  deSolve         \
-  fda             \
-  fds             \
-  languageserver
+  deSolve
+#  fda             \
+#  fds             \
+#  languageserver
 #  latex2exp       \
 #  MASS            \
 #  Matrix
