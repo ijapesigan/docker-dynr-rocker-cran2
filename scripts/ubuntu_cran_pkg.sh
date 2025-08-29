@@ -4,7 +4,8 @@ set -e
 
 install2.r --error --skipinstalled -n -1 \
   devtools        \
-  car
+  fda             \
+  fds
 #  deSolve
 #  fda             \
 #  fds             \
